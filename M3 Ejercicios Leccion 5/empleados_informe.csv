@@ -1,0 +1,9 @@
+EmpleadoID,Nombre,Area,Edad,Antiguedad,Categoria_Edad,Permanencia
+1,Ana Gómez,Ventas,28,3,Joven,Reciente
+2,Luis Torres,IT,42,10,Medio,Estable
+3,Carlos Silva,Marketing,35,6,Medio,Estable
+4,Sofía Luna,Ventas,25,2,Joven,Reciente
+5,Eva Marín,IT,50,15,Senior,Estable
+6,David Ruiz,Recursos Humanos,46,12,Senior,Estable
+7,Sara Nieto,Marketing,31,4,Medio,Reciente
+8,Pablo Gil,IT,29,1,Joven,Reciente

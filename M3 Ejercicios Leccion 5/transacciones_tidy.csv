@@ -1,0 +1,12 @@
+TransactionID,Fecha,ClienteID,Producto
+1,2024-06-01,101,Laptop
+2,2024-06-01,102,Mouse
+3,2024-06-02,101,Teclado
+4,2024-06-03,103,Mouse
+5,2024-06-03,102,Monitor
+1,2024-06-01,101,Mouse
+2,2024-06-01,102,Teclado
+4,2024-06-03,103,Monitor
+5,2024-06-03,102,Webcam
+1,2024-06-01,101,Webcam
+5,2024-06-03,102,Mouse
